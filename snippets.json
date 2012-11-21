@@ -557,6 +557,7 @@
 			"mla": "margin-left:auto;",
 			"wa": "width:auto;",
 			"ha": "height:auto;",
+			"mw": "max-width:|;",
 			"mawn": "max-width:none;",
 			"mahn": "max-height:none;",
 			"on": "outline:none;",
